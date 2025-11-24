@@ -1,3 +1,6 @@
+
+# ⚠️ No longer maintained. Check out [Identity Center](https://aws.amazon.com/iam/identity-center/). ⚠️ 
+
 # awsup
 
 `awsup` is a helper utility for the [aws cli](https://aws.amazon.com/cli/) that aims to make configuration easy and authentication very easy.
